@@ -1,5 +1,5 @@
 # nEM
-Code and data for EMNLP2019 Paper ["Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation-Maximization Framework"](https://arxiv.org/pdf/1909.05448.pdf).
+Code and data for EMNLP2019 Paper ["Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation-Maximization Framework"](https://www.aclweb.org/anthology/D19-1031.pdf).
 
 ## Description
 
